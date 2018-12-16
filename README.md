@@ -1,1 +1,1 @@
-aliinfinite
+Chrome extension for infinite scroll of items on aliexpress. 
